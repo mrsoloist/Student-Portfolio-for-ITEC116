@@ -12,15 +12,15 @@ Each laboratory activity is stored in a separate folder with its own `README.md`
 
 | Lab | Title | Description |
 |-----|-------|------------|
-| Lab 1 | Introduction to C++ | Basic "Hello, World!" and input/output handling |
-| Lab 2 | Web Development Basics | Creating a simple webpage with HTML & CSS |
-| Lab 3 | Python Scripting | Writing a script for basic data processing |
-
-*(More labs will be added as the course progresses!)*  
+| Lab 1 | Introduction to FastAPI | Computes factorial using API |
+| Lab 2 | Working with HTTP actions and API parameters | Use the HTTP methods and parameters to create a simple CRUD simulation API |
+| Lab 3 | Working with JSON | Familiarize and identify JSON as a primary data format for API development |
+| Lab 4 | Advanced API Implementation | Implement best practices in handling environment variables  |
+| Lab 5 | Deploying API in Cloud | Develop and deploy API to a cloud platform  |
 
 ## 🚀 How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Student-Portfolio-ITEC116.git
+   git clone https://github.com/mrsoloist/Student-Portfolio-for-ITEC116.git
 2. Navigate to the Laboratory Activities folder.
 3. Open each lab’s README.md for instructions on running the code.
