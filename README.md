@@ -12,11 +12,11 @@ Each laboratory activity is stored in a separate folder with its own `README.md`
 
 | Lab | Title | Description |
 |-----|-------|------------|
-| Lab 1 | Introduction to FastAPI | Computes factorial using API |
-| Lab 2 | Working with HTTP actions and API parameters | Use the HTTP methods and parameters to create a simple CRUD simulation API |
-| Lab 3 | Working with JSON | Familiarize and identify JSON as a primary data format for API development |
-| Lab 4 | Advanced API Implementation | Implement best practices in handling environment variables  |
-| Lab 5 | Deploying API in Cloud | Develop and deploy API to a cloud platform  |
+| Lab1 | Introduction to FastAPI | Computes factorial using API |
+| Lab2 | Working with HTTP actions and API parameters | Use the HTTP methods and parameters to create a simple CRUD simulation API |
+| Lab3 | Working with JSON | Familiarize and identify JSON as a primary data format for API development |
+| Lab4 | Advanced API Implementation | Implement best practices in handling environment variables  |
+| Lab5 | Deploying API in Cloud | Develop and deploy API to a cloud platform  |
 
 ## 🚀 How to Use This Repository
 1. Clone the repository:
