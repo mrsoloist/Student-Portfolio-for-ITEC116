@@ -1,6 +1,6 @@
 # 🎓 Student Portfolio for ITEC116
 
-Welcome to my **Student Portfolio** for the **ITEC116** course!  
+Hello!, My name is Ralph Banaban from section BSIT 4-E. Welcome to my **Student Portfolio** for the **ITEC116** course!  
 This repository contains all my laboratory activities, showcasing my progress and understanding of programming concepts covered in the course.
 
 ## 📌 About This Repository
